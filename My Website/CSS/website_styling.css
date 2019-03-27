@@ -2,17 +2,12 @@
 
 /*NAVBAR*/
 
-.custom_nav .navbar.navbar-fixed-top .navbar-inner{
-    background: #99ccff
-    color: #99ccff;
-}
-
 /*END NAVBAR/*
 
 -------------------------------------------------------------------------------------
 BANNER
 /* Container holding the image and the text */
-.container {
+.banner {
     position: relative;
     text-align: center;
     color: white;
